@@ -1,4 +1,4 @@
-# alexis-diaz
+
 ### Hi there 👋, my name is Alexis
 computer science student looking to expand skillset :3
 
